@@ -1,0 +1,14 @@
+C:\Users\ollak\Projet1\bin\Debug\net10.0\Projet1.exe
+C:\Users\ollak\Projet1\bin\Debug\net10.0\Projet1.deps.json
+C:\Users\ollak\Projet1\bin\Debug\net10.0\Projet1.runtimeconfig.json
+C:\Users\ollak\Projet1\bin\Debug\net10.0\Projet1.dll
+C:\Users\ollak\Projet1\bin\Debug\net10.0\Projet1.pdb
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.AssemblyInfoInputs.cache
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.AssemblyInfo.cs
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.dll
+C:\Users\ollak\Projet1\obj\Debug\net10.0\refint\Projet1.dll
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.pdb
+C:\Users\ollak\Projet1\obj\Debug\net10.0\Projet1.genruntimeconfig.cache
+C:\Users\ollak\Projet1\obj\Debug\net10.0\ref\Projet1.dll
